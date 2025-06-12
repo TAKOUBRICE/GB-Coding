@@ -1,0 +1,16 @@
+{
+    "name": "gatsing/eweb",
+    "type": "project",
+    "license": "proprietaire",
+    "authors": [
+        {
+            "name": "gatsing brice"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
