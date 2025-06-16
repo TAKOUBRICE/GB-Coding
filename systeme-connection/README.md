@@ -8,3 +8,4 @@ email: varchar(200),
 password: varchar(100),
 status: int (1),
 date_sart: datetime}
+3-Lancer votre server web(wamp, xamp, etv...)
